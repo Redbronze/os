@@ -1,2 +1,2 @@
 all: 
- @gcc  fork.c -std=c99 -o fork -Werror
+@gcc fork.c -std=c99 -o fork -Werror
